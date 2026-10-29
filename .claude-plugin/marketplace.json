@@ -1,0 +1,14 @@
+{
+  "name": "Edwins claude-code marketplace",
+  "description": "Plugins for me, myself and I",
+  "owner": {
+    "name": "Edwin Steiner"
+  },
+  "plugins": [
+    {
+      "name": "bob-mode",
+      "source": "./plugins/bob-mode",
+      "description": "Enforces disciplined software engineering principles when writing or changing code."
+    }
+  ]
+}

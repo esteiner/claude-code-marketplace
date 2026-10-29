@@ -1,0 +1,9 @@
+{
+  "name": "bob-mode",
+  "version": "1.0.0",
+  "description": "Enforces disciplined software engineering principles when writing or changing code.",
+  "author": {
+      "name": "Uncle Bob",
+      "url": "https://github.com/unclebob/ub-mode"
+    }
+}
